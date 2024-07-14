@@ -2,6 +2,7 @@
 
 ## Introduction
 This project aims to identify the best neighborhood in Toronto to open a new gym based on demographic, geographic, and venue information. 
+[Complete code](https://github.com/chandravamshi-ai/Data-Science-Portfolio/blob/main/Machine%20Learning/Clustering/Identifying%20the%20Optimal%20Neighborhood%20in%20Toronto%20for%20a%20New%20Gym/toronto-neighborhoods-clustering.ipynb)
 
 ## Data
 The dataset used for this analysis is available on [Kaggle](https://www.kaggle.com/datasets/youssef19/toronto-neighborhoods-inforamtion).
