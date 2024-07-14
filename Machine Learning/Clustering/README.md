@@ -1,2 +1,1 @@
-# SQL
-My SQL Notes
+# Clustering
