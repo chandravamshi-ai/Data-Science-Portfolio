@@ -21,9 +21,12 @@ Geographical and neighborhood data were excluded from the normalization process 
 
 ### K-Means Clustering
 The optimal number of clusters (k) was determined using the elbow method, which involves plotting the average distance to cluster centers for different values of k and identifying the point where the rate of decrease sharply changes. The ideal number of clusters was found to be 3.
+![Optimal K](https://github.com/chandravamshi-ai/Data-Science-Portfolio/blob/main/Machine%20Learning/Clustering/Identifying%20the%20Optimal%20Neighborhood%20in%20Toronto%20for%20a%20New%20Gym/images/Optimal%20no.of%20Clusters.png)
 
 ## Results 
 The neighborhoods were categorized into three clusters as visualized in the figure below. The red cluster represents the first cluster, violet the second cluster, and green the third cluster.
+
+![Result](https://github.com/chandravamshi-ai/Data-Science-Portfolio/blob/main/Machine%20Learning/Clustering/Identifying%20the%20Optimal%20Neighborhood%20in%20Toronto%20for%20a%20New%20Gym/images/K%20means%20clustered.png)
 
 ## Conclusion 
 By analyzing demographic and venue data from Foursquare API, neighborhoods in Toronto were grouped into three clusters using k-means clustering. A significant finding was that the number of gyms is correlated with the number of venues.
