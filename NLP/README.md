@@ -1,2 +1,3 @@
-# SQL
-My SQL Notes
+# NLP
+NLP Projects
+
