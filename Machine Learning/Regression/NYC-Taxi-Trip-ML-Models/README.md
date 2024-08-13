@@ -28,3 +28,65 @@ The goal of this project is to implement and compare different machine learning 
 
 The dataset used in this project is publicly available and can be accessed [here](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page). The specific file used is the yellow taxi trip data for January 2019.
 
+## Results
+
+
+   ### Random Forest Classification
+   
+   |                       | Predicted: 0 | Predicted: 1 |
+   |-----------------------|--------------|--------------|
+   | **Actual: 0**         | 10893        | 4790         |
+   | **Actual: 1**         | 3788         | 14425        |
+   
+   - **Accuracy**: `0.7469`
+   - **F1 Score**: `0.7469`
+   - **Precision**: `0.7507`
+   - **Recall**: `0.7920`
+
+   ---
+   
+   ### Random Forest Regression
+   
+   | Metric                    | Value        |
+   |---------------------------|--------------|
+   | **Mean Absolute Error (MAE)**  | `7.6459`     |
+   | **Mean Squared Error (MSE)**   | `168.4280`   |
+   | **Root Mean Squared Error (RMSE)** | `12.9780` |
+   | **R² Score**                | `0.4396`     |
+   
+   **Best Hyperparameters**:
+   
+  ```
+  {
+    "n_estimators": 600,
+    "min_samples_split": 10,
+    "min_samples_leaf": 2,
+    "max_features": "sqrt",
+    "max_depth": 500,
+    "bootstrap": False
+  }
+  ```
+     
+   ---
+   
+   ### Gradient Boosting Regressor
+   
+   | Metric                    | Value        |
+   |---------------------------|--------------|
+   | **Mean Absolute Error (MAE)**  | `8.8332`     |
+   | **Mean Squared Error (MSE)**   | `188.7850`   |
+   | **Root Mean Squared Error (RMSE)** | `13.7399` |
+   | **R² Score**                | `0.3719`     |
+
+   ---
+   
+   ### Decision Tree Regression
+   
+   | Metric                    | Value        |
+   |---------------------------|--------------|
+   | **Mean Absolute Error (MAE)**  | `10.4349`    |
+   | **Mean Squared Error (MSE)**   | `252.0874`   |
+   | **Root Mean Squared Error (RMSE)** | `15.8773` |
+   | **R² Score**                | `0.1393`     |
+   
+   
