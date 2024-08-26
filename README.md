@@ -4,6 +4,11 @@
 
 ## Skill Based Projects 
 
+
+## Data Analysis and Visualization
+* __[Zomato Resutaurant ](https://github.com/chandravamshi-ai/Data-Science-Portfolio/tree/main/Data%20Visualization/Zomato%20-%20EDA)__: Focusing on various factors affecting restaurant establishments in Bengaluru. The analysis aims to provide insights into restaurant ratings, types, costs, and locations, helping to understand consumer preferences and market trends
+
+
 ## Machine Learning:
 ### Regression
 * __[Automobile price prediction](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/Machine%20Learning/Regression/Automobile%20price%20prediction)__: Utlitize python to implement end to end data science pipeline to predict the price of old Automobile based on the given features.
