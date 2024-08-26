@@ -6,7 +6,7 @@
 
 
 ## Data Analysis and Visualization
-* __[Zomato Resutaurant ](https://github.com/chandravamshi-ai/Data-Science-Portfolio/tree/main/Data%20Visualization/Zomato%20-%20EDA)__: Focusing on various factors affecting restaurant establishments in Bengaluru. The analysis aims to provide insights into restaurant ratings, types, costs, and locations, helping to understand consumer preferences and market trends
+* __[Zomato restaurant](https://github.com/chandravamshi-ai/Data-Science-Portfolio/tree/main/Data%20Visualization/Zomato%20-%20EDA)__: Focusing on various factors affecting restaurant establishments in Bengaluru. The analysis aims to provide insights into restaurant ratings, types, costs, and locations, helping to understand consumer preferences and market trends
 
 
 ## Machine Learning:
