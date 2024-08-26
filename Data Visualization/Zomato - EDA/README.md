@@ -1,16 +1,37 @@
-# Data-Science-Portfolio
+# Zomato EDA (Exploratory Data Analysis)
+
+## Overview
+
+This repository contains an exploratory data analysis (EDA) of the Zomato dataset, focusing on various factors affecting restaurant establishments in Bengaluru. The analysis aims to provide insights into restaurant ratings, types, costs, and locations, helping to understand consumer preferences and market trends.
+
+## Dataset
+
+The dataset used for this analysis is derived from Zomato, which includes information on various restaurants in Bengaluru. The dataset contains attributes such as restaurant names, types, ratings, costs, and locations.
+
+## Installation
+
+To run the Jupyter Notebook, ensure you have the following installed:
+
+- Python 3.x
+- Jupyter Notebook
+- Required libraries: 
+  - pandas
+  - matplotlib
+  - seaborn
+
+You can install the required libraries using pip:
+
+```bash
+pip install pandas matplotlib seaborn
+```
 
 
+## Visualizations
 
-## Skill Based Projects 
+The notebook includes various visualizations to analyze:
 
-## Machine Learning:
-### Regression
-* __[Automobile price prediction](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/Machine%20Learning/Regression/Automobile%20price%20prediction)__: Utlitize python to implement end to end data science pipeline to predict the price of old Automobile based on the given features.
-
-### Clustering
-
-* __[Finding the Best Location to Open a New Gym](https://github.com/chandravamshi-ai/Data-Science-Portfolio/tree/main/Machine%20Learning/Clustering/Identifying%20the%20Optimal%20Neighborhood%20in%20Toronto%20for%20a%20New%20Gym)__: Utilized Python to implement unsupervised learning techniques to help the business owner increase revenue by identifying the best neighborhood to open a new gym.
-
-
-
+- Distribution of restaurant types
+- Ratings by restaurant type
+- Cost analysis of restaurants
+- Popular restaurant chains in Bengaluru
+- Relationships between location and ratings
