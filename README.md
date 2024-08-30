@@ -17,5 +17,5 @@
 
 * __[Finding the Best Location to Open a New Gym](https://github.com/chandravamshi-ai/Data-Science-Portfolio/tree/main/Machine%20Learning/Clustering/Identifying%20the%20Optimal%20Neighborhood%20in%20Toronto%20for%20a%20New%20Gym)__: Utilized Python to implement unsupervised learning techniques to help the business owner increase revenue by identifying the best neighborhood to open a new gym.
 
-
+* __[Restaurant Recommendation System](https://github.com/chandravamshi-ai/Data-Science-Portfolio/tree/main/Machine%20Learning/Clustering/Zomato-recommendation-system)__: Personalized restaurant suggestions based on user preferences and restaurant attributes.
 
